@@ -1,2 +1,4 @@
  this is a sample txt file to practice git
  this should be in second commit
+
+ this should only be in branch1
